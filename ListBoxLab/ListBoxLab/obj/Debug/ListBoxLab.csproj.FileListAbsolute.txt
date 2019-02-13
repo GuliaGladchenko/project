@@ -1,0 +1,10 @@
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\bin\Debug\ListBoxLab.exe.config
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\bin\Debug\ListBoxLab.exe
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\bin\Debug\ListBoxLab.pdb
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\obj\Debug\ListBoxLab.csprojAssemblyReference.cache
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\obj\Debug\ListBoxLab.frmCars.resources
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\obj\Debug\ListBoxLab.Properties.Resources.resources
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\obj\Debug\ListBoxLab.csproj.GenerateResource.cache
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\obj\Debug\ListBoxLab.csproj.CoreCompileInputs.cache
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\obj\Debug\ListBoxLab.exe
+E:\4 курс\С#\колледж\ListBoxLab\ListBoxLab\obj\Debug\ListBoxLab.pdb
